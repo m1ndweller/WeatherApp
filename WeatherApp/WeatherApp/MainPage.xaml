@@ -15,7 +15,7 @@
                  Orientation="Vertical"
                  Spacing="15">
       <Label Text="Here comes the Map:" />
-      <maps:Map WidthRequest="320" HeightRequest="200"
+      <maps:Map WidthRequest="320" HeightRequest="100"
             x:Name="MyMap"
             IsShowingUser="true"
             MapType="Hybrid"
